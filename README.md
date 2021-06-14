@@ -4,7 +4,7 @@ _Product/Project Manager  based in Singapore_ <br>
 
 [Email](mailto:hankuanjuan@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kuan-juan-han-66570922/) / [GitHub](https://https://github.com/hankuanjuan) 
 
-## 👩🏼‍💻 Technical Experience
+## :man_technologist: Technical Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
